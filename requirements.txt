@@ -1,4 +1,4 @@
-python-telegram-bot
+aiogram==2.25.1
 yt-dlp
-aiohttp
+aiohttp==3.8.5
 requests
